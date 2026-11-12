@@ -12,8 +12,6 @@ C++ developer with hands-on robotics and computer-vision projects
 
 Target C++ roles in robotics, embedded, game development and systems.
 
-- 🔭 Currently exploring **robotics and embedded systems**
-- 💻 Main programming language: **C++**
 - ⚙️ Interested in **robotics and customed machine**
 - 🚀 Goal: Build technology that solves real-world problems
 
