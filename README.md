@@ -8,9 +8,9 @@
 
 ### 🤖 About Me
 
-I'm an aspiring robotics engineer passionate about **C++, robotics, and automation**.
+C++ developer with hands-on robotics and computer-vision projects
 
-I enjoy turning ideas into working systems through programming, mechatronics, and hands-on experimentation.
+Target C++ roles in robotics, embedded, game development and systems.
 
 - 🔭 Currently exploring **robotics and embedded systems**
 - 💻 Main programming language: **C++**
