@@ -28,14 +28,6 @@ I enjoy turning ideas into working systems through programming, mechatronics, an
 
 </div>
 
-### 🚀 What I'm Building
-
-- 🔥 **Wildfire Detection AI** — Exploring computer vision for early smoke detection
--  **CNC plotters** — A 2D game developed using C++ and SDL3
-- 🤖 **Robotics Projects** — Experimenting with robotic🛠️ hardware and software
-
----
-
 <div align="center">
 
 *"Turning curiosity into code, and code into machines."*
