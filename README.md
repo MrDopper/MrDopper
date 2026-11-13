@@ -8,7 +8,7 @@
 
 ### 🤖 About Me
 
-junior C++ developer with hands-on robotics and computer-vision projects
+Junior C++ developer with hands-on robotics and computer-vision projects
 
 Target C++ roles in robotics, embedded, game development and systems.
 
